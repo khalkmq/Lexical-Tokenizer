@@ -2,10 +2,11 @@
  * Copyright (C) 2000 Gerwin Klein <lsf@jflex.de>                          *
  * All rights reserved.                                                    *
  *                                                                         *
- * Thanks to Larry Bell and Bob Jam/home/kmq5044/Desktop/proj1-minc-lexer-startup/Lexer.flexison for suggestions and comments.      *
+ * Thanks to Larry Bell and Bob Jamison for suggestions and comments.      *
  *                                                                         *
  * License: BSD                                                            *
  *                                                                         *
+ * Modified by Khalid Qubbaj (khalkmq) 					   *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 %%
