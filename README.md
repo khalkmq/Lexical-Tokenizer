@@ -11,27 +11,28 @@ It does so by:
 
 ## How it works:
 
-1. Clone this into your "src" directory
+1. Clone this into your source directory
 
-2. Download jflex-1.X.X.jar from https://jflex.de/download.html and place it in the "source" directory.
+2. Download jflex-1.X.X.jar from https://jflex.de/download.html and place it in the source directory.
 
-3. Open your terminal and cd to your "src" directory.
+3. Open your terminal and cd to your source directory.
 
 4. Compile Lexer.jflex as follows, make sure your jflex number is the same as the one you downloaded:
 ```
 java -jar jflex-1.X.X.jar Lexer.flex
 ```
-4. compile all java files using the following:
+4. Compile all java files using the following:
 ```
 javac *.java
 ```
-5. run program and capture its output as follows:
+5. Place your test files, or the files provided in this repo into the source directory.
+6. Run program and capture its output as follows:
 ```
 java Program test1.minc > solu1.txt
 ```
 
 ## Related Repos:
-[Lexical-Tokenizer]()
+[Lexical-Tokenizer](https://github.com/khalkmq/Lexical-Tokenizer)
 
 [Lexical-Analyzer]()
 
