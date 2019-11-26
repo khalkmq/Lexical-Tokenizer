@@ -1,0 +1,18 @@
+<token-name:MAIN, token-attr:"main", lineno:1>
+<token-name:LPAREN, token-attr:"(", lineno:1>
+<token-name:RPAREN, token-attr:")", lineno:1>
+<token-name:BEGIN, token-attr:"{", lineno:2>
+<token-name:ID, token-attr:"a", lineno:3>
+<token-name:ASSIGN, token-attr:"=", lineno:3>
+<token-name:ID, token-attr:"a", lineno:3>
+<token-name:LPAREN, token-attr:"(", lineno:3>
+<token-name:NUM, token-attr:"1", lineno:3>
+<token-name:OP, token-attr:"-", lineno:3>
+<token-name:NUM, token-attr:"2", lineno:3>
+<token-name:COMMA, token-attr:",", lineno:3>
+<token-name:NUM, token-attr:"3", lineno:3>
+<token-name:RPAREN, token-attr:")", lineno:3>
+<token-name:SEMI, token-attr:";", lineno:3>
+<token-name:ID, token-attr:"b", lineno:4>
+<token-name:ASSIGN, token-attr:"=", lineno:4>
+tokenizing error at line 4.

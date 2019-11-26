@@ -1,0 +1,16 @@
+<token-name:MAIN, token-attr:"main", lineno:1>
+<token-name:LPAREN, token-attr:"(", lineno:1>
+<token-name:RPAREN, token-attr:")", lineno:1>
+<token-name:BEGIN, token-attr:"{", lineno:2>
+<token-name:IF, token-attr:"if", lineno:3>
+<token-name:LPAREN, token-attr:"(", lineno:3>
+<token-name:ID, token-attr:"AB", lineno:3>
+<token-name:RELOP, token-attr:">=", lineno:3>
+<token-name:ID, token-attr:"b", lineno:3>
+<token-name:RPAREN, token-attr:")", lineno:3>
+<token-name:PRINT, token-attr:"print", lineno:4>
+<token-name:ID, token-attr:"x", lineno:4>
+<token-name:SEMI, token-attr:";", lineno:4>
+<token-name:ID, token-attr:"b", lineno:5>
+<token-name:ASSIGN, token-attr:"=", lineno:5>
+tokenizing error at line 5.

@@ -1,0 +1,6 @@
+<token-name:MAIN, token-attr:"main", lineno:1>
+<token-name:LPAREN, token-attr:"(", lineno:1>
+<token-name:RPAREN, token-attr:")", lineno:1>
+<token-name:BEGIN, token-attr:"{", lineno:2>
+<token-name:END, token-attr:"}", lineno:3>
+successful in tokenizing the input.
