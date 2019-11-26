@@ -1,4 +1,15 @@
-# Lexical-Analyzer
+# Lexical-Tokenizer
+
+## Description:
+A Lexical Tokenizer is the first step in the construction of a Syntax Checker. It converts a sequence of characters into a sequence of tokens that can later be analyzed. This particular implementation attempts to do this for a minified version of the C Language (Mini-C).
+
+It does so by:
+1) Taking a program source code as an input stream. 
+2) Breaks the source into the sequence of lexemes that are meaningful units of words for tokens given regular definitions. 
+3) Generates tokens, each of which is a pair of a token name and its attribute.
+4) Passes them to its caller (parser here) repeatedly.
+
+## How it works:
 
 1. Clone this into your "src" directory
 
@@ -18,3 +29,10 @@ javac *.java
 ```
 java Program test1.minc > solu1.txt
 ```
+
+## Related Repos:
+[Lexical-Tokenizer]()
+
+[Lexical-Analyzer]()
+
+[Syntax Checker]()
