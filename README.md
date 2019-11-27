@@ -34,6 +34,6 @@ java Program test1.minc > solu1.txt
 ## Related Repos:
 [Lexical-Tokenizer](https://github.com/khalkmq/Lexical-Tokenizer)
 
-[Lexical-Analyzer]()
+[Lexical-Analyzer](https://github.com/khalkmq/Lexical-Analyzer)
 
 [Syntax Checker]()
