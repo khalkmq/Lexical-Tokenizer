@@ -26,6 +26,7 @@ java -jar jflex-1.X.X.jar Lexer.flex
 javac *.java
 ```
 5. Place your test files, or the files provided in this repo into the source directory.
+
 6. Run program and capture its output as follows:
 ```
 java Program test1.minc > solu1.txt
