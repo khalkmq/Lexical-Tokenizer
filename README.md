@@ -37,4 +37,4 @@ java Program test1.minc > solu1.txt
 
 [Lexical-Analyzer](https://github.com/khalkmq/Lexical-Analyzer)
 
-[Syntax Checker]()
+[Syntax Checker](https://github.com/khalkmq/Syntax-Checker)
